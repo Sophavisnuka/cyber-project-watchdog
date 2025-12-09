@@ -55,6 +55,13 @@ def log_detection(path: Path, reason: str):
 # ============================================================
 # CONFIG & SIGNATURES
 # ============================================================
+# Files that are ALWAYS quarantined immediately (highest risk)
+AUTO_QUARANTINE_EXTENSIONS = {
+    ".exe", ".scr", ".com", ".pif", ".bat", ".cmd", ".ps1", ".vbs",
+    ".jar", ".msi", ".hta", ".cpl", ".reg"
+}
+
+# Files that trigger deeper analysis
 DANGEROUS_EXTENSIONS = {
     ".exe", ".dll", ".scr", ".com", ".pif", ".bat", ".cmd", ".ps1", ".vbs",
     ".js", ".jar", ".msi", ".lnk", ".reg", ".hta", ".cpl", ".msc", ".app"
@@ -283,6 +290,13 @@ def analyze_file(path: Path):
                 break
         except:
             return
+
+    # === INSTANT BLOCK: HIGH-RISK FILE TYPES (Phishing Protection) ===
+    if path.suffix.lower() in AUTO_QUARANTINE_EXTENSIONS:
+        file_type = path.suffix.upper()
+        log_detection(path, f"{file_type} FILE - Auto-quarantined for security (Phishing Protection)")
+        move_to_quarantine(path)
+        return
 
     # === Instant Block Rules (Fast) ===
     if has_rtlo_spoof(path):
