@@ -1,0 +1,536 @@
+[2025-12-09 21:13:17] DEBUG: WatchDog Starting - User: USER
+[2025-12-09 21:13:17] DEBUG: Quarantine folder: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:13:17] DEBUG: Starting initial scan in background...
+[2025-12-09 21:13:17] DEBUG: Monitoring: C:\Users\USER\Downloads
+[2025-12-09 21:13:17] DEBUG: Monitoring: C:\Users\USER\Desktop
+[2025-12-09 21:13:17] DEBUG: Monitoring: C:\Users\USER\Documents
+[2025-12-09 21:13:17] DEBUG: Monitoring: C:\Users\USER\AppData\Local\Temp
+[2025-12-09 21:13:17] DEBUG: Real-time monitoring started - WatchDog is now active
+[2025-12-09 21:13:19] DEBUG: File modified event: Capstone Project Task - Sheet1.pdf
+[2025-12-09 21:13:21] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - hello.exe
+[2025-12-09 21:13:21] DETECTED → C:\Users\USER\Downloads\hello.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:13:22] DETECTED → C:\Users\USER\Downloads\hello.exe | Reason: QUARANTINED → 20251209_211321_hello.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:13:26] DEBUG: File modified event: Konlerz.mp4
+[2025-12-09 21:13:28] DEBUG: File modified event: ~$cercise2-Begin-Research-Assingment (1).docx
+[2025-12-09 21:13:29] DEBUG: File modified event: 1-Verify.gov.kh.zip
+[2025-12-09 21:13:29] DEBUG: File modified event: 1.png
+[2025-12-09 21:13:30] DEBUG: File modified event: 2-Go.gov.kh.zip
+[2025-12-09 21:13:30] DEBUG: File modified event: 2.png
+[2025-12-09 21:13:31] DEBUG: File modified event: 20241231_123825.jpg
+[2025-12-09 21:13:31] DEBUG: File modified event: Adware-browser-hijacker Simulation Project - Vmware Sandbox.docx
+[2025-12-09 21:13:32] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-09 21:13:32] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:13:32] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: QUARANTINED → 20251209_211332_agent.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:13:33] DEBUG: File modified event: Artboard 1.jpg
+[2025-12-09 21:13:33] DEBUG: File modified event: Blank diagram (6).png
+[2025-12-09 21:13:34] DEBUG: File modified event: Capstone II Report.pdf
+[2025-12-09 21:13:35] DEBUG: File modified event: Card_Ciw_Mockup.png
+[2025-12-09 21:13:35] DEBUG: File modified event: CIW Permission Letter.pdf
+[2025-12-09 21:13:36] DEBUG: File modified event: CPU_occupy.png
+[2025-12-09 21:13:36] DEBUG: File modified event: Domra-PM-final.pdf
+[2025-12-09 21:13:37] DEBUG: File modified event: Final_10_Dec_2025_Seminar_Integrating_AI_into_Research_and_Development.pdf
+[2025-12-09 21:13:37] DEBUG: File modified event: If-not-process.jpg
+[2025-12-09 21:13:38] DEBUG: File modified event: logo.png
+[2025-12-09 21:13:38] DEBUG: File modified event: photo_2025-12-09_14-52-56.jpg
+[2025-12-09 21:13:39] DEBUG: File modified event: Project Closure Report Template.pdf
+[2025-12-09 21:13:39] DEBUG: File modified event: Project Inception and Assessment Report.pdf
+[2025-12-09 21:13:40] DEBUG: File modified event: rust.rs
+[2025-12-09 21:13:40] DEBUG: File modified event: Spreading_USB.drawio
+[2025-12-09 21:13:41] DEBUG: File modified event: TP3_Auto_Run_exe_Application1.pdf
+[2025-12-09 21:13:41] DEBUG: File modified event: Untitled (2).png
+[2025-12-09 21:13:42] DEBUG: File modified event: Untitled (3).png
+[2025-12-09 21:13:43] DEBUG: File modified event: Untitled (5).png
+[2025-12-09 21:13:44] DEBUG: File modified event: what about.jpg
+[2025-12-09 21:13:44] DEBUG: File modified event: WISH ARMY.jpg
+[2025-12-09 21:13:45] DEBUG: File created event: d39aab13-4aa2-49c4-8bf3-1a8d61552b49.tmp
+[2025-12-09 21:13:45] DEBUG: File modified event: d39aab13-4aa2-49c4-8bf3-1a8d61552b49.tmp
+[2025-12-09 21:13:45] DEBUG: File modified event: d39aab13-4aa2-49c4-8bf3-1a8d61552b49.tmp
+[2025-12-09 21:13:45] DEBUG: File modified event: Zoneer-ERD.drawio (3).pdf
+[2025-12-09 21:13:46] DEBUG: File modified event: Zoneer-ERD.drawio (4).pdf
+[2025-12-09 21:13:46] DEBUG: File modified event: Zoneer-ERD.drawio (4)_page-0001.jpg
+[2025-12-09 21:13:47] DEBUG: File modified event: ~$Project Presentation.pptx
+[2025-12-09 21:13:47] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត (2).docx
+[2025-12-09 21:13:48] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត (2).pdf
+[2025-12-09 21:13:48] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត.pdf
+[2025-12-09 21:13:49] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត2.pdf
+[2025-12-09 21:13:49] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី (2).docx
+[2025-12-09 21:13:50] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី.pdf
+[2025-12-09 21:13:50] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី2.pdf
+[2025-12-09 21:13:51] DEBUG: File modified event: លើកទឹកចិត្តបងប្អូនកងទ័ពជួរមុខ_copy.jpg
+[2025-12-09 21:13:52] DEBUG: File modified event: វីរកងទ័ព title 02.png
+[2025-12-09 21:13:52] DEBUG: File modified event: ស្មារតីខ្មែរតែ១ by Bro. CheT.ai
+[2025-12-09 21:13:53] DEBUG: File modified event: .DS_Store
+[2025-12-09 21:13:53] DEBUG: File modified event: 1.Verify.gov.kh-Colors-Guideline.png
+[2025-12-09 21:13:54] DEBUG: File modified event: Verify-gov.kh.pdf
+[2025-12-09 21:13:54] DEBUG: File modified event: 1.Verify.gov.kh-Light-Mode-Verical.png
+[2025-12-09 21:13:55] DEBUG: File modified event: 1a.Verify.gov.kh-Light-Mode-Horizontal.png
+[2025-12-09 21:13:55] DEBUG: File modified event: 1b.Verify.gov.kh-Light-Mode-Horizontal-Long.png
+[2025-12-09 21:13:56] DEBUG: File modified event: 1c.Verify.gov.kh-Dark-Mode-Verical.png
+[2025-12-09 21:13:56] DEBUG: File modified event: 1d.Verify.gov.kh-Dark-Mode-Horizontal.png
+[2025-12-09 21:13:57] DEBUG: File modified event: 1e.Verify.gov.kh-Dark-Mode-Horizontal-Long.png
+[2025-12-09 21:13:57] DEBUG: File modified event: .DS_Store
+[2025-12-09 21:13:58] DEBUG: File modified event: 1.Verify.gov.kh-Light-Mode-Verical.svg
+[2025-12-09 21:13:58] DEBUG: File modified event: 1a.Verify.gov.kh-Light-Mode-Horizontal.svg
+[2025-12-09 21:13:59] DEBUG: File modified event: 1b.Verify.gov.kh-Light-Mode-Horizontal-Long.svg
+[2025-12-09 21:13:59] DEBUG: File modified event: 1c.Verify.gov.kh-Dark-Mode-Verical.svg
+[2025-12-09 21:14:00] DEBUG: File modified event: 1d.Verify.gov.kh-Dark-Mode-Horizontal.svg
+[2025-12-09 21:14:01] DEBUG: File modified event: 1e.Verify.gov.kh-Dark-Mode-Horizontal-Long.svg
+[2025-12-09 21:14:01] DEBUG: File modified event: icon.ai
+[2025-12-09 21:14:02] DEBUG: File modified event: Verify-icon.ai
+[2025-12-09 21:14:02] DEBUG: File modified event: Verify.icon.ai
+[2025-12-09 21:14:03] DEBUG: File modified event: Verify.icon.jpg
+[2025-12-09 21:14:03] DEBUG: File modified event: Verify.icon.png
+[2025-12-09 21:14:11] DEBUG: File modified event: 2ndComplement.sim
+[2025-12-09 21:14:12] DEBUG: File modified event: extraAdd16bit.sim
+[2025-12-09 21:14:12] DEBUG: File modified event: extraSub16bit.sim
+[2025-12-09 21:14:13] DEBUG: File modified event: firstComplement.sim
+[2025-12-09 21:14:13] DEBUG: File modified event: TP2.sim
+[2025-12-09 21:14:14] DEBUG: File modified event: TP3.sim
+[2025-12-09 21:14:14] DEBUG: File modified event: TP4.sim
+[2025-12-09 21:14:15] DEBUG: File modified event: TP5.sim
+[2025-12-09 21:14:15] DEBUG: File created event: 9a49d8f4-c6f6-4a27-8ce6-32faf9da1810.tmp
+[2025-12-09 21:14:15] DEBUG: File modified event: 9a49d8f4-c6f6-4a27-8ce6-32faf9da1810.tmp
+[2025-12-09 21:14:15] DEBUG: File modified event: 9a49d8f4-c6f6-4a27-8ce6-32faf9da1810.tmp
+[2025-12-09 21:14:15] DEBUG: File modified event: labWeeek3TP8
+[2025-12-09 21:14:16] DEBUG: File modified event: labWeeek3TP8.sim
+[2025-12-09 21:14:16] DEBUG: File modified event: LabWeek03TP03.sim
+[2025-12-09 21:14:17] DEBUG: File modified event: LabWeek3
+[2025-12-09 21:14:17] DEBUG: File modified event: LabWeek3.sim
+[2025-12-09 21:14:18] DEBUG: File modified event: LabWeek3TP02.sim
+[2025-12-09 21:14:18] DEBUG: File modified event: LabWeek3TP6.sim
+[2025-12-09 21:14:19] DEBUG: File modified event: test1.sim
+[2025-12-09 21:14:19] DEBUG: File modified event: test3.sim
+[2025-12-09 21:14:20] DEBUG: File modified event: Tp01.sim
+[2025-12-09 21:14:20] DEBUG: File modified event: Tp02.sim
+[2025-12-09 21:14:21] DEBUG: File modified event: TP03.sim
+[2025-12-09 21:14:21] DEBUG: File modified event: TP04.sim
+[2025-12-09 21:14:22] DEBUG: File modified event: Tp01.sim
+[2025-12-09 21:14:22] DEBUG: File modified event: Tp02(Me).sim
+[2025-12-09 21:14:23] DEBUG: File modified event: Tp02(New).sim
+[2025-12-09 21:14:23] DEBUG: File modified event: Password 123.txt
+[2025-12-09 21:14:24] DEBUG: File modified event: CMD.txt
+[2025-12-09 21:14:24] DEBUG: File modified event: configuration-Office2019Enterprise.xml
+[2025-12-09 21:14:25] DEBUG: File modified event: configuration-Office2021Enterprise.xml
+[2025-12-09 21:14:25] DEBUG: File modified event: configuration-Office365-x64.xml
+[2025-12-09 21:14:26] DEBUG: File modified event: configuration-Office365-x86.xml
+[2025-12-09 21:14:26] DEBUG: File modified event: Configuration.xml
+[2025-12-09 21:14:27] DEBUG: File modified event: ApplicationInfo.xml
+[2025-12-09 21:14:27] DEBUG: File modified event: Driver.xml
+[2025-12-09 21:14:28] DEBUG: File modified event: AdobePIM.dll
+[2025-12-09 21:14:29] DEBUG: File modified event: Config.xml
+[2025-12-09 21:14:29] DEBUG: File modified event: IPC.pima
+[2025-12-09 21:14:30] DEBUG: File modified event: IPC.pimx
+[2025-12-09 21:14:30] DEBUG: File created event: ac1743f2-dda7-4330-ab6f-8ada68e22b14.tmp
+[2025-12-09 21:14:30] DEBUG: File modified event: ac1743f2-dda7-4330-ab6f-8ada68e22b14.tmp
+[2025-12-09 21:14:30] DEBUG: File modified event: ac1743f2-dda7-4330-ab6f-8ada68e22b14.tmp
+[2025-12-09 21:14:30] DEBUG: File modified event: IPC.sig
+[2025-12-09 21:14:30] DEBUG: File created event: 992ca980-0c78-4bcd-93a4-76ad4616633f.tmp
+[2025-12-09 21:14:30] DEBUG: File modified event: 992ca980-0c78-4bcd-93a4-76ad4616633f.tmp
+[2025-12-09 21:14:30] DEBUG: File modified event: 992ca980-0c78-4bcd-93a4-76ad4616633f.tmp
+[2025-12-09 21:14:31] DEBUG: File modified event: Core.pima
+[2025-12-09 21:14:31] DEBUG: File modified event: Core.pimx
+[2025-12-09 21:14:32] DEBUG: File modified event: Core.sig
+[2025-12-09 21:14:32] DEBUG: File modified event: HDBox.pima
+[2025-12-09 21:14:33] DEBUG: File created event: 7e4a54d3-5bc0-40e0-9d4c-6549d8201efc.tmp
+[2025-12-09 21:14:33] DEBUG: File modified event: 7e4a54d3-5bc0-40e0-9d4c-6549d8201efc.tmp
+[2025-12-09 21:14:33] DEBUG: File modified event: 7e4a54d3-5bc0-40e0-9d4c-6549d8201efc.tmp
+[2025-12-09 21:14:33] DEBUG: File modified event: HDBox.pimx
+[2025-12-09 21:14:33] DEBUG: File modified event: HDBox.sig
+[2025-12-09 21:14:34] DEBUG: File modified event: IPCBox.pima
+[2025-12-09 21:14:34] DEBUG: File modified event: IPCBox.pimx
+[2025-12-09 21:14:35] DEBUG: File modified event: IPCBox.sig
+[2025-12-09 21:14:36] DEBUG: File modified event: LCC.pima
+[2025-12-09 21:14:36] DEBUG: File modified event: LCC.pimx
+[2025-12-09 21:14:37] DEBUG: File modified event: LCC.sig
+[2025-12-09 21:14:38] DEBUG: File modified event: Runtime.pima
+[2025-12-09 21:14:38] DEBUG: File modified event: Runtime.pimx
+[2025-12-09 21:14:39] DEBUG: File modified event: Runtime.sig
+[2025-12-09 21:14:43] DEBUG: File created event: hi.bat
+[2025-12-09 21:14:44] DEBUG: File created event: hi.bat
+[2025-12-09 21:14:44] DEBUG: File modified event: hi.bat
+[2025-12-09 21:14:45] DEBUG: HIGH-RISK FILE TYPE DETECTED: .BAT - hi.bat
+[2025-12-09 21:14:45] DEBUG: HIGH-RISK FILE TYPE DETECTED: .BAT - hi.bat
+[2025-12-09 21:14:45] DETECTED → C:\Users\USER\Downloads\hi.bat | Reason: .BAT FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:14:45] DETECTED → C:\Users\USER\Downloads\hi.bat | Reason: .BAT FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:14:45] DETECTED → C:\Users\USER\Downloads\hi.bat | Reason: QUARANTINED → 20251209_211445_hi.bat | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:14:45] DETECTED → C:\Users\USER\Downloads\hi.bat | Reason: QUARANTINED → 20251209_211445_hi.bat | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:14:45] DEBUG: File modified event: AdobeMediaEncoder14AllTrial.zip
+[2025-12-09 21:14:45] DEBUG: File created event: 3391495a-6a53-4143-880f-19b3b72a35a1.tmp
+[2025-12-09 21:14:45] DEBUG: File modified event: 3391495a-6a53-4143-880f-19b3b72a35a1.tmp
+[2025-12-09 21:14:45] DEBUG: File modified event: 3391495a-6a53-4143-880f-19b3b72a35a1.tmp
+[2025-12-09 21:14:46] DEBUG: File modified event: AdobeInstalledCodecs.zip
+[2025-12-09 21:14:46] DEBUG: File modified event: appIcon.png
+[2025-12-09 21:14:47] DEBUG: File modified event: appIcon2x.png
+[2025-12-09 21:14:47] DEBUG: File modified event: v64.cab
+[2025-12-09 21:15:16] DEBUG: File created event: 12c3463e-1988-426b-9e05-3cd5e9e24d59.tmp
+[2025-12-09 21:15:16] DEBUG: File modified event: 12c3463e-1988-426b-9e05-3cd5e9e24d59.tmp
+[2025-12-09 21:15:16] DEBUG: File modified event: 12c3463e-1988-426b-9e05-3cd5e9e24d59.tmp
+[2025-12-09 21:15:31] DEBUG: File created event: cancellation-47.tmp
+[2025-12-09 21:15:46] DEBUG: File created event: 763d23da-4e05-41de-8c08-782ac1fbf027.tmp
+[2025-12-09 21:15:46] DEBUG: File modified event: 763d23da-4e05-41de-8c08-782ac1fbf027.tmp
+[2025-12-09 21:15:46] DEBUG: File modified event: 763d23da-4e05-41de-8c08-782ac1fbf027.tmp
+[2025-12-09 21:15:46] DEBUG: File created event: 01ba4e22-0b12-4d15-989e-f8bc7ba8420d.tmp
+[2025-12-09 21:15:46] DEBUG: File modified event: 01ba4e22-0b12-4d15-989e-f8bc7ba8420d.tmp
+[2025-12-09 21:15:46] DEBUG: File modified event: 01ba4e22-0b12-4d15-989e-f8bc7ba8420d.tmp
+[2025-12-09 21:16:10] DEBUG: File modified event: Downloads - Shortcut.lnk
+[2025-12-09 21:16:25] DEBUG: File created event: 901c37d3-90b5-4924-8eef-dbe0a2610841.tmp
+[2025-12-09 21:16:25] DEBUG: File modified event: 901c37d3-90b5-4924-8eef-dbe0a2610841.tmp
+[2025-12-09 21:16:25] DEBUG: File modified event: 901c37d3-90b5-4924-8eef-dbe0a2610841.tmp
+[2025-12-09 21:16:55] DEBUG: File created event: 7facc0dd-e314-4a2b-be52-9caecc27777f.tmp
+[2025-12-09 21:16:55] DEBUG: File modified event: 7facc0dd-e314-4a2b-be52-9caecc27777f.tmp
+[2025-12-09 21:16:55] DEBUG: File modified event: 7facc0dd-e314-4a2b-be52-9caecc27777f.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-bg-3.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-pq-109.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-pq-110.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-108.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-111.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-116.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-pq-117.tmp
+[2025-12-09 21:17:22] DEBUG: File created event: cancellation-pq-118.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-119.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-bg-5.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-pq-127.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-pq-128.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-122.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-pq-135.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-pq-136.tmp
+[2025-12-09 21:17:23] DEBUG: File created event: cancellation-127.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-132.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-145.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-bg-7.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-146.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-bg-8.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-133.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-155.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-bg-9.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-156.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-138.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-163.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-pq-164.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-bg-10.tmp
+[2025-12-09 21:17:24] DEBUG: File created event: cancellation-140.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-148.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-pq-179.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-bg-11.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-145.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-pq-180.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-pq-189.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-pq-190.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: 957e2eb1-03f8-4134-ac93-5d29a7d2e62d.tmp
+[2025-12-09 21:17:25] DEBUG: File modified event: 957e2eb1-03f8-4134-ac93-5d29a7d2e62d.tmp
+[2025-12-09 21:17:25] DEBUG: File modified event: 957e2eb1-03f8-4134-ac93-5d29a7d2e62d.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-bg-12.tmp
+[2025-12-09 21:17:25] DEBUG: File created event: cancellation-149.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-154.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-191.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-bg-13.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-192.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-201.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-202.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-156.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-207.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-208.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-219.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-220.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-158.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-221.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-pq-222.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-bg-14.tmp
+[2025-12-09 21:17:26] DEBUG: File created event: cancellation-159.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-168.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-bg-15.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-pq-233.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-pq-234.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-164.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-pq-241.tmp
+[2025-12-09 21:17:27] DEBUG: File created event: cancellation-pq-242.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-170.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-249.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-250.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-172.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-257.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-258.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-bg-16.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-174.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-bg-17.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-265.tmp
+[2025-12-09 21:17:28] DEBUG: File created event: cancellation-pq-266.tmp
+[2025-12-09 21:17:29] DEBUG: File created event: cancellation-bg-18.tmp
+[2025-12-09 21:17:29] DEBUG: File created event: cancellation-180.tmp
+[2025-12-09 21:17:29] DEBUG: File created event: cancellation-bg-19.tmp
+[2025-12-09 21:17:30] DEBUG: File created event: cancellation-187.tmp
+[2025-12-09 21:17:30] DEBUG: File created event: cancellation-pq-299.tmp
+[2025-12-09 21:17:30] DEBUG: File created event: cancellation-pq-300.tmp
+[2025-12-09 21:17:30] DEBUG: File created event: cancellation-pq-303.tmp
+[2025-12-09 21:17:30] DEBUG: File created event: cancellation-pq-304.tmp
+[2025-12-09 21:17:56] DEBUG: File created event: c024baca-9407-47f5-9d10-77545349a0f7.tmp
+[2025-12-09 21:17:56] DEBUG: File modified event: c024baca-9407-47f5-9d10-77545349a0f7.tmp
+[2025-12-09 21:17:56] DEBUG: File modified event: c024baca-9407-47f5-9d10-77545349a0f7.tmp
+[2025-12-09 21:17:56] DEBUG: File created event: sad.ps1
+[2025-12-09 21:17:57] DEBUG: File created event: sad.ps1
+[2025-12-09 21:17:57] DEBUG: File modified event: sad.ps1
+[2025-12-09 21:17:58] DEBUG: HIGH-RISK FILE TYPE DETECTED: .PS1 - sad.ps1
+[2025-12-09 21:17:58] DETECTED → C:\Users\USER\Downloads\sad.ps1 | Reason: .PS1 FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:17:58] DEBUG: HIGH-RISK FILE TYPE DETECTED: .PS1 - sad.ps1
+[2025-12-09 21:17:58] DETECTED → C:\Users\USER\Downloads\sad.ps1 | Reason: .PS1 FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:17:58] DETECTED → C:\Users\USER\Downloads\sad.ps1 | Reason: QUARANTINED → 20251209_211758_sad.ps1 | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:18:26] DEBUG: File created event: f99030a7-4212-4237-b254-941bca3633f2.tmp
+[2025-12-09 21:18:26] DEBUG: File modified event: f99030a7-4212-4237-b254-941bca3633f2.tmp
+[2025-12-09 21:18:26] DEBUG: File modified event: f99030a7-4212-4237-b254-941bca3633f2.tmp
+[2025-12-09 21:18:36] DEBUG: File created event: 74a276b8-5ba7-4d6f-8dbe-0f5235364752.tmp
+[2025-12-09 21:18:36] DEBUG: File modified event: 74a276b8-5ba7-4d6f-8dbe-0f5235364752.tmp
+[2025-12-09 21:18:36] DEBUG: File modified event: 74a276b8-5ba7-4d6f-8dbe-0f5235364752.tmp
+[2025-12-09 21:21:04] DEBUG: WatchDog Starting - User: USER
+[2025-12-09 21:21:04] DEBUG: Quarantine folder: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:21:04] DEBUG: Starting initial scan in background...
+[2025-12-09 21:21:04] DEBUG: Monitoring: C:\Users\USER\Downloads
+[2025-12-09 21:21:04] DEBUG: Monitoring: C:\Users\USER\Desktop
+[2025-12-09 21:21:04] DEBUG: Monitoring: C:\Users\USER\Documents
+[2025-12-09 21:21:04] DEBUG: Monitoring: C:\Users\USER\AppData\Local\Temp
+[2025-12-09 21:21:04] DEBUG: Real-time monitoring started - WatchDog is now active
+[2025-12-09 21:21:09] DEBUG: File created event: b32dcf09-7051-4636-99eb-59d5f847e2a4.tmp
+[2025-12-09 21:21:09] DEBUG: File modified event: b32dcf09-7051-4636-99eb-59d5f847e2a4.tmp
+[2025-12-09 21:21:09] DEBUG: File modified event: b32dcf09-7051-4636-99eb-59d5f847e2a4.tmp
+[2025-12-09 21:21:39] DEBUG: File created event: 5b7347d9-9170-4477-a246-f331c5769674.tmp
+[2025-12-09 21:21:39] DEBUG: File modified event: 5b7347d9-9170-4477-a246-f331c5769674.tmp
+[2025-12-09 21:21:39] DEBUG: File modified event: 5b7347d9-9170-4477-a246-f331c5769674.tmp
+[2025-12-09 21:21:41] DEBUG: File created event: cancellation-210.tmp
+[2025-12-09 21:21:41] DEBUG: File created event: cancellation-211.tmp
+[2025-12-09 21:22:10] DEBUG: File created event: 564b1adb-9137-430d-8e75-649b0b3c2f17.tmp
+[2025-12-09 21:22:10] DEBUG: File modified event: 564b1adb-9137-430d-8e75-649b0b3c2f17.tmp
+[2025-12-09 21:22:10] DEBUG: File modified event: 564b1adb-9137-430d-8e75-649b0b3c2f17.tmp
+[2025-12-09 21:22:31] DEBUG: File modified event: v64_16.0.14332.20624.cab
+[2025-12-09 21:22:32] DEBUG: File modified event: i640.cab
+[2025-12-09 21:22:33] DEBUG: File modified event: s640.cab
+[2025-12-09 21:22:40] DEBUG: File created event: 752f338d-f8d0-4216-8409-b6f89646fcf4.tmp
+[2025-12-09 21:22:40] DEBUG: File modified event: 752f338d-f8d0-4216-8409-b6f89646fcf4.tmp
+[2025-12-09 21:22:40] DEBUG: File modified event: 752f338d-f8d0-4216-8409-b6f89646fcf4.tmp
+[2025-12-09 21:22:44] DEBUG: File modified event: stream.x64.x-none.dat
+[2025-12-09 21:22:45] DEBUG: File modified event: PhotoshopPrefsManager-20240123-141112.log
+[2025-12-09 21:22:46] DEBUG: File modified event: library_index.json.sig
+[2025-12-09 21:22:46] DEBUG: File modified event: package_index.json.sig
+[2025-12-09 21:22:47] DEBUG: File modified event: preferences.txt
+[2025-12-09 21:22:47] DEBUG: File modified event: Adobe Media Encoder Prefs
+[2025-12-09 21:22:48] DEBUG: File modified event: AMEEncodingErrorLog.txt
+[2025-12-09 21:22:49] DEBUG: File modified event: AMEEncodingLog.txt
+[2025-12-09 21:22:49] DEBUG: File modified event: AMEPrefs.xml
+[2025-12-09 21:22:50] DEBUG: File modified event: AppPrefs.xml
+[2025-12-09 21:22:50] DEBUG: File modified event: batch.xml
+[2025-12-09 21:22:51] DEBUG: File modified event: Debug Database.txt
+[2025-12-09 21:22:51] DEBUG: File modified event: EquivalentXMPPaths.xml
+[2025-12-09 21:22:52] DEBUG: File modified event: Media Browser Provider Exception
+[2025-12-09 21:22:52] DEBUG: File modified event: Placeholder Preset.epr
+[2025-12-09 21:22:53] DEBUG: File modified event: PresetCache.xml
+[2025-12-09 21:22:53] DEBUG: File modified event: Recent Directories
+[2025-12-09 21:22:54] DEBUG: File modified event: SharedView Column Settings
+[2025-12-09 21:22:54] DEBUG: File modified event: Trace Database.txt
+[2025-12-09 21:22:55] DEBUG: File modified event: Watch Folder Info.xml
+[2025-12-09 21:22:55] DEBUG: File modified event: WSMgrCfg
+[2025-12-09 21:22:56] DEBUG: File modified event: Adobe Media Encoder Log-last.txt
+[2025-12-09 21:22:56] DEBUG: File modified event: Adobe Media Encoder Log.txt
+[2025-12-09 21:22:57] DEBUG: File modified event: Adobe Media Encoder_2025-04-10_110838_DESKTOP-209J8OF.crash
+[2025-12-09 21:22:57] DEBUG: File modified event: Adobe Media Encoder_2025-08-23_211825_DESKTOP-209J8OF.crash
+[2025-12-09 21:22:58] DEBUG: File modified event: PresetTree.xml
+[2025-12-09 21:22:58] DEBUG: File modified event: UserWorkspace.xml
+[2025-12-09 21:22:59] DEBUG: File modified event: (Adobe).lnk
+[2025-12-09 21:22:59] DEBUG: File modified event: 0076f7be-4582-28e4-d3d5-635500026e2e.ocl
+[2025-12-09 21:23:00] DEBUG: File modified event: 00b45ac5-a05b-6947-224a-1a810001db5f.ocl
+[2025-12-09 21:23:01] DEBUG: File modified event: 0338ca12-654c-e01d-34b4-43330001d25d.ocl
+[2025-12-09 21:23:01] DEBUG: File modified event: 034ab675-d2bb-293d-b345-2d4e00016982.ocl
+[2025-12-09 21:23:02] DEBUG: File modified event: 0355e2c0-cdfe-4fe5-3e97-48de0001d195.ocl
+[2025-12-09 21:23:02] DEBUG: File modified event: 0440552a-87f9-3cc9-362c-73100001ca76.ocl
+[2025-12-09 21:23:03] DEBUG: File modified event: 046b6e3a-aa6c-0449-45a4-3c780001ca88.ocl
+[2025-12-09 21:23:03] DEBUG: File modified event: 06184a33-7b65-d863-14bd-ae940001cdab.ocl
+[2025-12-09 21:23:04] DEBUG: File modified event: 063b4635-06be-2f07-8499-a9ec00013e9b.ocl
+[2025-12-09 21:23:04] DEBUG: File modified event: 064790a5-0bdd-16e7-1b00-d0990001ca76.ocl
+[2025-12-09 21:23:05] DEBUG: File modified event: 06cc0f39-a978-4ac9-3120-60bf00013221.ocl
+[2025-12-09 21:23:05] DEBUG: File modified event: 06f37137-ed43-1361-64b4-17090001a1dc.ocl
+[2025-12-09 21:23:06] DEBUG: File modified event: 077ce1ee-1e6f-59bb-96cb-2e7f00013f35.ocl
+[2025-12-09 21:23:06] DEBUG: File modified event: 098be02f-8730-a2aa-50e2-4c990000f8fd.ocl
+[2025-12-09 21:23:07] DEBUG: File modified event: 09dca257-9d46-bfc9-0ac0-91990001349c.ocl
+[2025-12-09 21:23:07] DEBUG: File modified event: 0a39da70-2a1e-61b8-9a18-8a8600013e9b.ocl
+[2025-12-09 21:23:08] DEBUG: File modified event: 0a925a45-70b1-27c8-c963-b8eb0001212d.ocl
+[2025-12-09 21:23:08] DEBUG: File modified event: 0b488c89-4068-bcf8-c62a-3d750001ca64.ocl
+[2025-12-09 21:23:09] DEBUG: File modified event: 0b611e14-0e8b-1f42-dfb5-d4c70002e9ab.ocl
+[2025-12-09 21:23:10] DEBUG: File modified event: 0bd53a25-b14c-de11-8ba3-eb79000367ab.ocl
+[2025-12-09 21:23:10] DEBUG: File modified event: 0c2b22cf-79a4-b39f-1fd4-a12c0001d095.ocl
+[2025-12-09 21:23:10] DEBUG: File created event: f351a7ce-c717-4e5e-b3f0-a00bc8aac3d4.tmp
+[2025-12-09 21:23:10] DEBUG: File modified event: f351a7ce-c717-4e5e-b3f0-a00bc8aac3d4.tmp
+[2025-12-09 21:23:10] DEBUG: File modified event: f351a7ce-c717-4e5e-b3f0-a00bc8aac3d4.tmp
+[2025-12-09 21:23:11] DEBUG: File modified event: 0c2d3f88-4fb7-ea0c-75e7-2dfe0001ca64.ocl
+[2025-12-09 21:23:11] DEBUG: File modified event: 0c6516ee-d463-df39-f64b-c21d00027627.ocl
+[2025-12-09 21:23:12] DEBUG: File modified event: 0d51af2b-bfac-96b0-d233-9be00001ca88.ocl
+[2025-12-09 21:23:12] DEBUG: File modified event: 0e3cb372-1a50-7fd2-8507-e1460001cba1.ocl
+[2025-12-09 21:23:13] DEBUG: File modified event: 0e72bef8-3964-f2ac-4e9d-865b0001ddfd.ocl
+[2025-12-09 21:23:13] DEBUG: File created event: cancellation-bg-21.tmp
+[2025-12-09 21:23:13] DEBUG: File created event: cancellation-pq-351.tmp
+[2025-12-09 21:23:13] DEBUG: File created event: cancellation-pq-352.tmp
+[2025-12-09 21:23:13] DEBUG: File created event: cancellation-223.tmp
+[2025-12-09 21:23:13] DEBUG: File modified event: 0e8e0de6-ee5c-1967-d489-f4500001ce5e.ocl
+[2025-12-09 21:23:14] DEBUG: File modified event: 0f5f09fd-f3b7-bbb0-5af3-8de100012ca3.ocl
+[2025-12-09 21:23:14] DEBUG: File modified event: 10981993-116d-9290-0c8c-64da00013ced.ocl
+[2025-12-09 21:23:15] DEBUG: File modified event: 10ac7155-29ea-8f0e-1c74-94170001cd2a.ocl
+[2025-12-09 21:23:15] DEBUG: File modified event: 10de496a-fa6c-79d8-24d0-440100011411.ocl
+[2025-12-09 21:23:16] DEBUG: File modified event: 11e60937-3fc2-8130-1b03-85b00001ce5e.ocl
+[2025-12-09 21:23:16] DEBUG: File modified event: 12158002-3d0c-e031-6214-24a70001d799.ocl
+[2025-12-09 21:23:17] DEBUG: File modified event: 126a287f-bdda-474f-8916-68500001c9a7.ocl
+[2025-12-09 21:23:17] DEBUG: File modified event: 12719865-3175-ad48-51f0-94af0001c97d.ocl
+[2025-12-09 21:23:18] DEBUG: File modified event: 127b470a-32a7-7115-89ce-0d8d0001ce0b.ocl
+[2025-12-09 21:23:19] DEBUG: File modified event: 12c7a699-b624-4a52-e41c-c8600001ed3a.ocl
+[2025-12-09 21:23:19] DEBUG: File modified event: 12d5e492-a803-e266-de3f-cda200011d82.ocl
+[2025-12-09 21:23:20] DEBUG: File modified event: 12fb9c28-108c-b41f-2b48-302800016bcb.ocl
+[2025-12-09 21:23:20] DEBUG: File modified event: 131fdb97-1c30-2c40-57b0-9e4e0001caca.ocl
+[2025-12-09 21:23:21] DEBUG: File modified event: 1328e368-5498-2667-e0f9-30d50001cf42.ocl
+[2025-12-09 21:23:21] DEBUG: File modified event: 133e7477-bb66-deb0-9a59-96e10001cf42.ocl
+[2025-12-09 21:23:22] DEBUG: File modified event: 13427d69-1bf9-aa3c-d999-1efc0001cc0b.ocl
+[2025-12-09 21:23:22] DEBUG: File modified event: 13b09496-c37a-52c7-2139-4ad5000367ab.ocl
+[2025-12-09 21:23:23] DEBUG: File modified event: 14203dea-ac52-042a-fc8b-c02400013221.ocl
+[2025-12-09 21:23:23] DEBUG: File modified event: 1638e9b2-b52a-42cd-e33a-b1170002e1e1.ocl
+[2025-12-09 21:23:24] DEBUG: File modified event: 165ea3a9-d8af-f9ad-67df-bb320001d5ef.ocl
+[2025-12-09 21:23:24] DEBUG: File modified event: 1692e17f-bc3f-6b86-f358-9d570002ef92.ocl
+[2025-12-09 21:23:25] DEBUG: File modified event: 1808be5e-6d7e-264d-447c-c4380001d2ea.ocl
+[2025-12-09 21:23:25] DEBUG: File modified event: 18993a77-ca5b-52db-7b5e-6d6b0001caca.ocl
+[2025-12-09 21:23:26] DEBUG: File modified event: 18c02c91-e392-1480-ca5e-c4ab0001ca64.ocl
+[2025-12-09 21:23:26] DEBUG: File modified event: 19076ac1-0b92-1169-dd14-53180001d195.ocl
+[2025-12-09 21:23:27] DEBUG: File modified event: 191e837b-5118-fa11-2d41-abc70001d87a.ocl
+[2025-12-09 21:23:27] DEBUG: File modified event: 1aa07260-5ceb-ce65-9b73-5f9d0001761f.ocl
+[2025-12-09 21:23:28] DEBUG: File modified event: 1be67ea1-3ba4-e2fd-acc1-70760001cb0e.ocl
+[2025-12-09 21:23:29] DEBUG: File modified event: 1c5d9511-801b-8a3f-4e82-04f3000250c9.ocl
+[2025-12-09 21:23:29] DEBUG: File modified event: 1d5368a0-41ed-6199-0fe6-a85600015d06.ocl
+[2025-12-09 21:23:30] DEBUG: File modified event: 1dbd4244-57a3-cbf3-b09d-b0330001cbee.ocl
+[2025-12-09 21:23:30] DEBUG: File modified event: 1dcdf9b5-4875-670d-eea9-520f0001ce6e.ocl
+[2025-12-09 21:23:31] DEBUG: File modified event: 1ede8e0d-8cef-109a-f896-d95b0001349c.ocl
+[2025-12-09 21:23:31] DEBUG: File modified event: 1ee8c7d2-4a19-f00b-b73e-053e0001d095.ocl
+[2025-12-09 21:23:32] DEBUG: File modified event: 1efd7ec5-ceff-b8e0-2313-82830001ce0b.ocl
+[2025-12-09 21:23:32] DEBUG: File modified event: 1f18cf01-41ff-d0e7-9f19-b26700028c8d.ocl
+[2025-12-09 21:23:33] DEBUG: File modified event: 1f45dcd0-8bda-7451-18f1-9ab90001cf3a.ocl
+[2025-12-09 21:23:33] DEBUG: File modified event: 1f78815d-8bf7-6afe-ca33-35d500020f46.ocl
+[2025-12-09 21:23:34] DEBUG: File modified event: 200b2af3-fed1-c81f-d5b5-159c00023b08.ocl
+[2025-12-09 21:23:34] DEBUG: File modified event: 20ae088f-51e1-33cd-5129-91eb0001cdfd.ocl
+[2025-12-09 21:23:35] DEBUG: File modified event: 211052e0-72e7-cc56-4654-e94800015a64.ocl
+[2025-12-09 21:23:35] DEBUG: File modified event: 21654403-754a-c7a4-1adf-337f0001cc98.ocl
+[2025-12-09 21:23:36] DEBUG: File modified event: 21763ab0-efdb-9870-2dd7-153b0001412e.ocl
+[2025-12-09 21:23:36] DEBUG: File modified event: 21b25bbd-b09d-a968-c986-9ba8000147de.ocl
+[2025-12-09 21:23:37] DEBUG: File modified event: 227e49b0-b569-fafe-67ea-41f50001cbf2.ocl
+[2025-12-09 21:23:37] DEBUG: File modified event: 22c7c503-e2a1-6ce0-f7a0-3f520001cb53.ocl
+[2025-12-09 21:23:38] DEBUG: File modified event: 245b3c4e-a005-0194-c585-493400013db8.ocl
+[2025-12-09 21:23:39] DEBUG: File modified event: 247a66ac-6a12-d869-09ec-f35f00011411.ocl
+[2025-12-09 21:23:39] DEBUG: File modified event: 251118cd-b418-67e9-40d5-af20000121fe.ocl
+[2025-12-09 21:23:40] DEBUG: File modified event: 25b63f1b-09dc-b8f3-57c4-7ec000027627.ocl
+[2025-12-09 21:23:40] DEBUG: File modified event: 268275a6-bed3-5de9-8343-f6ca0001cdab.ocl
+[2025-12-09 21:23:41] DEBUG: File created event: b08becca-24ef-43b8-b26f-c673e4dbebc7.tmp
+[2025-12-09 21:23:41] DEBUG: File modified event: b08becca-24ef-43b8-b26f-c673e4dbebc7.tmp
+[2025-12-09 21:23:41] DEBUG: File modified event: b08becca-24ef-43b8-b26f-c673e4dbebc7.tmp
+[2025-12-09 21:23:41] DEBUG: File modified event: 2713a4d2-beaa-d2af-d2c3-3c9b0001d5ef.ocl
+[2025-12-09 21:23:41] DEBUG: File modified event: 276e03d7-8a4b-3d68-47c3-cee50001466e.ocl
+[2025-12-09 21:23:42] DEBUG: File modified event: 27758084-97dc-ea13-d1d6-5bed00016113.ocl
+[2025-12-09 21:23:42] DEBUG: File modified event: 27c79632-84d0-cc61-b73b-1808000367ab.ocl
+[2025-12-09 21:23:43] DEBUG: File modified event: 28b58094-b3e0-fbed-28a0-9a8000014765.ocl
+[2025-12-09 21:23:43] DEBUG: File modified event: 29ec9e28-dadb-6e3e-7eb5-3feb0001cd31.ocl
+[2025-12-09 21:23:44] DEBUG: File modified event: 2a4ed43c-b16c-23d2-b33e-cdf60003f1b8.ocl
+[2025-12-09 21:23:44] DEBUG: File modified event: 2a8d55c8-e92f-c9ae-c883-dd2f00013ced.ocl
+[2025-12-09 21:23:45] DEBUG: File modified event: 2b0a68d6-e8a4-33e2-fd71-624a0001da81.ocl
+[2025-12-09 21:23:46] DEBUG: File modified event: 2b4947bb-4c48-71a8-e8c3-1f00000250c9.ocl
+[2025-12-09 21:23:46] DEBUG: File modified event: 2b639a3c-cb30-4d3e-5ba2-b74900034aeb.ocl
+[2025-12-09 21:23:47] DEBUG: File modified event: 2b8ca42c-c85c-a87f-0502-33800001e0e4.ocl
+[2025-12-09 21:23:47] DEBUG: File modified event: 2bcb5f33-d3aa-faef-5cef-1b6900013bba.ocl
+[2025-12-09 21:23:48] DEBUG: File modified event: 2cde8ada-3a51-9063-f065-0cab0001cf20.ocl
+[2025-12-09 21:23:48] DEBUG: File modified event: 2cead51b-557a-b836-f159-62b90001cb90.ocl
+[2025-12-09 21:23:49] DEBUG: File modified event: 2df1f50a-ff09-003e-5dd5-3ddd0001c9e8.ocl
+[2025-12-09 21:23:49] DEBUG: File modified event: 30824e7e-8153-663f-bf1b-fb980001d094.ocl
+[2025-12-09 21:23:50] DEBUG: File modified event: 3105fa1b-1dbf-6cf3-0ad2-f90f0001cdfd.ocl
+[2025-12-09 21:23:50] DEBUG: File modified event: 314941b6-320e-c417-2331-578800013f35.ocl
+[2025-12-09 21:23:51] DEBUG: File modified event: 32f04a37-4299-ff97-b6c9-14c00001da81.ocl
+[2025-12-09 21:23:51] DEBUG: File modified event: 3364b827-3ffb-5c7d-039d-255f00015d06.ocl
+[2025-12-09 21:23:52] DEBUG: File modified event: 3407c2a1-dbd5-04d5-0fbd-e53500014765.ocl
+[2025-12-09 21:23:52] DEBUG: File modified event: 34457d7f-99aa-34ea-759b-68cf0001d1f0.ocl
+[2025-12-09 21:23:53] DEBUG: File modified event: 34cf21b4-1b64-f7f5-3e92-ed440001c22b.ocl
+[2025-12-09 21:23:54] DEBUG: File modified event: 351fe751-eed4-0cdc-87f8-d01900021fd5.ocl
+[2025-12-09 21:23:54] DEBUG: File modified event: 353d3ddb-b719-09c6-cabb-11d70001d271.ocl
+[2025-12-09 21:23:55] DEBUG: File modified event: 378e0e29-6a07-c803-dd6d-2d640001412e.ocl
+[2025-12-09 21:23:55] DEBUG: File modified event: 38acddb0-f3a9-7cb6-90a8-62ff0001c22b.ocl
+[2025-12-09 21:23:56] DEBUG: File modified event: 39627b5d-d1ee-211b-b1ba-c99a00010a52.ocl
+[2025-12-09 21:23:56] DEBUG: File modified event: 39e43fe8-06e4-7027-4833-46a400012ab0.ocl
+[2025-12-09 21:23:57] DEBUG: File modified event: 3a0a7c82-b90d-bcab-35f5-e62200013f6e.ocl
+[2025-12-09 21:23:57] DEBUG: File modified event: 3afce11f-970b-9122-e7c5-9acf0001c9f1.ocl
+[2025-12-09 21:23:58] DEBUG: File modified event: 3b0d84ad-8d3d-24e0-79c2-23e50001cb7a.ocl
+[2025-12-09 21:23:58] DEBUG: File modified event: 3bec6e81-81ef-e391-35e5-651c0001cb14.ocl
+[2025-12-09 21:23:59] DEBUG: File modified event: 3c27f335-d049-e087-af53-6f110001cb14.ocl
+[2025-12-09 21:23:59] DEBUG: File modified event: 3c8fd6c9-9c16-af93-c1dc-49810001e2a1.ocl
+[2025-12-09 21:24:00] DEBUG: File modified event: 3cce08dc-830d-120a-445f-a09e0002bd42.ocl
+[2025-12-09 21:24:00] DEBUG: File modified event: 3e03b1d9-8286-8541-7c0b-809d00037002.ocl
+[2025-12-09 21:24:01] DEBUG: File modified event: 3e5bce70-7752-4b48-f77e-5a840000f71e.ocl
+[2025-12-09 21:24:02] DEBUG: File modified event: 3fd6cc02-3a5e-527c-ec67-d20f0001f493.ocl
+[2025-12-09 21:24:02] DEBUG: File modified event: 41117560-fd5b-c972-7d4f-f3680001cabe.ocl
+[2025-12-09 21:24:03] DEBUG: File modified event: 4159ede2-99e4-ef5e-7fe1-8a5c0001702d.ocl
+[2025-12-09 21:24:11] DEBUG: File created event: a8d3e693-bbbc-40be-9484-312c487c255f.tmp
+[2025-12-09 21:24:11] DEBUG: File modified event: a8d3e693-bbbc-40be-9484-312c487c255f.tmp
+[2025-12-09 21:24:11] DEBUG: File modified event: a8d3e693-bbbc-40be-9484-312c487c255f.tmp
+[2025-12-09 21:24:30] DEBUG: File created event: 246c3ffa-1fcb-484c-bb19-ad289fda8463.tmp
+[2025-12-09 21:24:30] DEBUG: File modified event: 246c3ffa-1fcb-484c-bb19-ad289fda8463.tmp
+[2025-12-09 21:24:30] DEBUG: File modified event: 246c3ffa-1fcb-484c-bb19-ad289fda8463.tmp
+[2025-12-09 21:24:30] DEBUG: File created event: 2b453647-56dc-4f02-9e20-a03ee735e1a0.tmp
+[2025-12-09 21:24:30] DEBUG: File modified event: 2b453647-56dc-4f02-9e20-a03ee735e1a0.tmp
+[2025-12-09 21:24:30] DEBUG: File modified event: 2b453647-56dc-4f02-9e20-a03ee735e1a0.tmp
+[2025-12-09 21:24:33] DEBUG: File created event: 0612d120-d84a-4f1a-82b5-68d1d6fc3e6f.tmp
+[2025-12-09 21:24:33] DEBUG: File modified event: 0612d120-d84a-4f1a-82b5-68d1d6fc3e6f.tmp
+[2025-12-09 21:24:33] DEBUG: File modified event: 0612d120-d84a-4f1a-82b5-68d1d6fc3e6f.tmp
+[2025-12-09 21:24:41] DEBUG: File created event: 811707bd-aac8-4d57-afaf-84e11a9e8be4.tmp
+[2025-12-09 21:24:41] DEBUG: File modified event: 811707bd-aac8-4d57-afaf-84e11a9e8be4.tmp
+[2025-12-09 21:24:41] DEBUG: File modified event: 811707bd-aac8-4d57-afaf-84e11a9e8be4.tmp
+[2025-12-09 21:24:48] DEBUG: File created event: cancellation-232.tmp
+[2025-12-09 21:24:58] DEBUG: File created event: 6e52a24b-0dd1-4fd0-8f23-6a5ef0bf737a.tmp
+[2025-12-09 21:24:58] DEBUG: File modified event: 6e52a24b-0dd1-4fd0-8f23-6a5ef0bf737a.tmp
+[2025-12-09 21:24:58] DEBUG: File modified event: 6e52a24b-0dd1-4fd0-8f23-6a5ef0bf737a.tmp
+[2025-12-09 21:25:00] DEBUG: File created event: 5be4fd3f-81ae-4859-b2ad-13d4ef0647d2.tmp
+[2025-12-09 21:25:00] DEBUG: File moved/renamed event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:00] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File created event: 85c6aa0d-b674-419b-b6cc-d9cf704cffa8.tmp
+[2025-12-09 21:25:01] DEBUG: File modified event: 85c6aa0d-b674-419b-b6cc-d9cf704cffa8.tmp
+[2025-12-09 21:25:01] DEBUG: File modified event: 85c6aa0d-b674-419b-b6cc-d9cf704cffa8.tmp
+[2025-12-09 21:25:01] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File modified event: Unconfirmed 131301.crdownload
+[2025-12-09 21:25:01] DEBUG: File created event: d6b00a72-90d9-48f9-9c6b-926cb4b22581.tmp
+[2025-12-09 21:25:01] DEBUG: File modified event: d6b00a72-90d9-48f9-9c6b-926cb4b22581.tmp
+[2025-12-09 21:25:01] DEBUG: File modified event: d6b00a72-90d9-48f9-9c6b-926cb4b22581.tmp
+[2025-12-09 21:25:02] DEBUG: File moved/renamed event: WindowsUpdateService.exe
+[2025-12-09 21:25:02] DEBUG: File modified event: WindowsUpdateService.exe
+[2025-12-09 21:25:03] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-09 21:25:03] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-09 21:25:03] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:25:03] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:25:03] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: QUARANTINED → 20251209_212503_WindowsUpdateService.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:25:31] DEBUG: File created event: 5bf11e87-3b3e-4b8d-a9dd-62013ae1fbfb.tmp
+[2025-12-09 21:25:31] DEBUG: File modified event: 5bf11e87-3b3e-4b8d-a9dd-62013ae1fbfb.tmp
+[2025-12-09 21:25:31] DEBUG: File modified event: 5bf11e87-3b3e-4b8d-a9dd-62013ae1fbfb.tmp
+[2025-12-09 21:25:47] DEBUG: File created event: d5844841-4953-4931-be33-379431214d9a.tmp
+[2025-12-09 21:25:47] DEBUG: File modified event: d5844841-4953-4931-be33-379431214d9a.tmp
+[2025-12-09 21:25:47] DEBUG: File modified event: d5844841-4953-4931-be33-379431214d9a.tmp
+[2025-12-09 21:25:51] DEBUG: File created event: ec0b864f-32f9-48da-a4cd-213c6875c102.tmp
+[2025-12-09 21:25:51] DEBUG: File modified event: ec0b864f-32f9-48da-a4cd-213c6875c102.tmp
+[2025-12-09 21:25:53] DEBUG: File created event: 11a42772-a257-4fe3-9465-b3c856bd9998.tmp
+[2025-12-09 21:25:53] DEBUG: File moved/renamed event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:54] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:54] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:54] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:54] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:55] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:55] DEBUG: File modified event: Unconfirmed 233332.crdownload
+[2025-12-09 21:25:55] DEBUG: File created event: c7f89fb6-7b17-4a97-97fe-bc87a2396806.tmp
+[2025-12-09 21:25:55] DEBUG: File modified event: c7f89fb6-7b17-4a97-97fe-bc87a2396806.tmp
+[2025-12-09 21:25:55] DEBUG: File modified event: c7f89fb6-7b17-4a97-97fe-bc87a2396806.tmp
+[2025-12-09 21:25:55] DEBUG: File modified event: c7f89fb6-7b17-4a97-97fe-bc87a2396806.tmp
+[2025-12-09 21:25:55] DEBUG: File moved/renamed event: WindowsUpdateService.exe
+[2025-12-09 21:25:55] DEBUG: File modified event: WindowsUpdateService.exe
+[2025-12-09 21:25:56] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-09 21:25:56] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:25:56] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-09 21:25:56] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-09 21:25:57] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: QUARANTINED → 20251209_212556_WindowsUpdateService.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+
+[2025-12-09 21:26:24] DEBUG: File created event: e3f8cdcf-76c6-42cc-bd2e-c2c90a9333e0.tmp
+[2025-12-09 21:26:24] DEBUG: File modified event: e3f8cdcf-76c6-42cc-bd2e-c2c90a9333e0.tmp
+[2025-12-09 21:26:24] DEBUG: File modified event: e3f8cdcf-76c6-42cc-bd2e-c2c90a9333e0.tmp
