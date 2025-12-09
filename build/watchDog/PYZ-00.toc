@@ -1,4 +1,4 @@
-('D:\\CADT\\Year3\\Y3-Term1\\Cyber-Security\\Watch-Dog\\build\\watchDog\\PYZ-00.pyz',
+('D:\\CADT\\Year3\\Y3-Term1\\Cyber-Security\\Watch-Dog\\build\\watchdog\\PYZ-00.pyz',
  [('__future__',
    'C:\\Users\\USER\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\__future__.py',
    'PYMODULE'),

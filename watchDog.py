@@ -52,9 +52,26 @@ def log_detection(path: Path, reason: str):
     except:
         pass
 
+def debug_log(message: str):
+    """Log debug messages to help troubleshoot"""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    entry = f"[{timestamp}] DEBUG: {message}\n"
+    try:
+        with open(LOG_FILE, "a", encoding="utf-8") as f:
+            f.write(entry)
+    except:
+        pass
+
 # ============================================================
 # CONFIG & SIGNATURES
 # ============================================================
+# Files that are ALWAYS quarantined immediately (highest risk)
+AUTO_QUARANTINE_EXTENSIONS = {
+    ".exe", ".scr", ".com", ".pif", ".bat", ".cmd", ".ps1", ".vbs",
+    ".jar", ".msi", ".hta", ".cpl", ".reg"
+}
+
+# Files that trigger deeper analysis
 DANGEROUS_EXTENSIONS = {
     ".exe", ".dll", ".scr", ".com", ".pif", ".bat", ".cmd", ".ps1", ".vbs",
     ".js", ".jar", ".msi", ".lnk", ".reg", ".hta", ".cpl", ".msc", ".app"
@@ -255,7 +272,6 @@ def move_to_quarantine(path: Path):
         log_detection(path, f"QUARANTINED → {target_name}")
         return True
     except Exception as e:
-        print(f"[!] Quarantine failed: {e}")
         try:
             path.rename(path.with_suffix(path.suffix + ".BLOCKED"))
         except:
@@ -266,23 +282,42 @@ def move_to_quarantine(path: Path):
 # MAIN ANALYSIS
 # ============================================================
 def analyze_file(path: Path):
-    if not path.exists() or not path.is_file():
-        return
-
-    # Skip temp download files
-    if path.suffix.lower() in IGNORE_EXTENSIONS:
-        return
-
-    # Wait for file to finish writing
-    for _ in range(10):
-        try:
-            before = path.stat().st_size
-            time.sleep(0.6)
-            after = path.stat().st_size
-            if before == after:
-                break
-        except:
+    try:
+        if not path.exists() or not path.is_file():
             return
+
+        # Skip temp download files
+        if path.suffix.lower() in IGNORE_EXTENSIONS:
+            return
+        
+        # === INSTANT BLOCK: HIGH-RISK FILE TYPES (Phishing Protection) ===
+        if path.suffix.lower() in AUTO_QUARANTINE_EXTENSIONS:
+            # Wait briefly for file to finish writing
+            time.sleep(1)
+            if not path.exists():
+                return
+            
+            file_type = path.suffix.upper()
+            debug_log(f"HIGH-RISK FILE TYPE DETECTED: {file_type} - {path.name}")
+            log_detection(path, f"{file_type} FILE - Auto-quarantined for security (Phishing Protection)")
+            move_to_quarantine(path)
+            return
+        
+        # For other files, wait for completion before analyzing
+        max_wait = 10
+        for attempt in range(max_wait):
+            try:
+                before = path.stat().st_size
+                time.sleep(0.5)
+                if not path.exists():
+                    return
+                after = path.stat().st_size
+                if before == after and before > 0:
+                    break
+            except Exception:
+                return
+    except Exception as e:
+        debug_log(f"Error in analyze_file: {path} - {e}")
 
     # === Instant Block Rules (Fast) ===
     if has_rtlo_spoof(path):
@@ -326,14 +361,27 @@ class WatchDogHandler(FileSystemEventHandler):
         if event.is_directory:
             return
         path = Path(event.src_path)
-        analyze_file(path)
+        debug_log(f"File created event: {path.name}")
+        # Use thread to avoid blocking the observer
+        threading.Thread(target=analyze_file, args=(path,), daemon=True).start()
 
     def on_modified(self, event):
         if event.is_directory:
             return
         path = Path(event.src_path)
+        debug_log(f"File modified event: {path.name}")
+        # Only analyze dangerous file types on modification
         if path.suffix.lower() in DANGEROUS_EXTENSIONS:
-            analyze_file(path)
+            threading.Thread(target=analyze_file, args=(path,), daemon=True).start()
+
+    def on_moved(self, event):
+        """Catch files that are moved/renamed (common with browser downloads)"""
+        if event.is_directory:
+            return
+        path = Path(event.dest_path)
+        debug_log(f"File moved/renamed event: {path.name}")
+        # Use thread to avoid blocking the observer
+        threading.Thread(target=analyze_file, args=(path,), daemon=True).start()
 
 # ============================================================
 # GUI FOR QUARANTINE MANAGEMENT
@@ -660,6 +708,30 @@ def open_quarantine_gui():
 # ============================================================
 # START MONITORING
 # ============================================================
+def scan_existing_files(paths):
+    """Scan all existing files in monitored folders on startup"""
+    scanned = 0
+    quarantined = 0
+    
+    for folder in paths:
+        if not folder.exists():
+            continue
+        
+        try:
+            # Scan all files in the folder (including subdirectories)
+            for file_path in folder.rglob("*"):
+                if file_path.is_file():
+                    try:
+                        analyze_file(file_path)
+                        scanned += 1
+                        # Check if file was quarantined (no longer exists)
+                        if not file_path.exists():
+                            quarantined += 1
+                    except Exception as e:
+                        pass
+        except Exception as e:
+            pass
+
 def start_watcher():
     username = getpass.getuser()
     base = Path(f"C:/Users/{username}")
@@ -671,26 +743,35 @@ def start_watcher():
         base / "AppData/Local/Temp",
     ]
 
+    debug_log(f"WatchDog Starting - User: {username}")
+    debug_log(f"Quarantine folder: {QUARANTINE_FOLDER}")
+
     observer = Observer()
     handler = WatchDogHandler()
-
-    print(f"[+] WatchDog Started – Protecting {username}")
-    print(f"[+] Quarantine folder: {QUARANTINE_FOLDER}")
-    print(f"[+] Monitoring: {[p.name for p in watch_paths if p.exists()]}")
+    
+    # Perform initial scan of existing files (in background thread to not block)
+    debug_log("Starting initial scan in background...")
+    threading.Thread(target=scan_existing_files, args=(watch_paths,), daemon=True).start()
 
     for path in watch_paths:
         if path.exists():
             observer.schedule(handler, str(path), recursive=True)
+            debug_log(f"Monitoring: {path}")
 
     observer.start()
+    debug_log("Real-time monitoring started - WatchDog is now active")
+    
     try:
-        while True:
-            time.sleep(1)
+        while observer.is_alive():
+            observer.join(1)
     except KeyboardInterrupt:
-        print("\n[+] WatchDog stopped by user.")
+        debug_log("WatchDog stopped by user")
+    except Exception as e:
+        debug_log(f"WatchDog error: {e}")
     finally:
         observer.stop()
         observer.join()
+        debug_log("WatchDog stopped")
 
 if __name__ == "__main__":
     import argparse
