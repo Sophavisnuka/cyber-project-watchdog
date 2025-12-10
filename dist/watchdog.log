@@ -4338,3 +4338,91 @@ XE - agent.exe
 [2025-12-10 23:46:47] DEBUG: File modified event: Media Browser Provider Exception
 [2025-12-10 23:46:48] DEBUG: File modified event: Placeholder Preset.epr
 [2025-12-10 23:46:48] DEBUG: File modified event: PresetCache.xml
+[2025-12-10 23:52:50] DEBUG: WatchDog Starting - User: USER
+[2025-12-10 23:52:50] DEBUG: Quarantine folder: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:52:50] DEBUG: Starting initial scan in background...
+[2025-12-10 23:52:50] DEBUG: Monitoring: C:\Users\USER\Downloads
+[2025-12-10 23:52:50] DEBUG: Monitoring: C:\Users\USER\Desktop
+[2025-12-10 23:52:50] DEBUG: Monitoring: C:\Users\USER\Documents
+[2025-12-10 23:52:50] DEBUG: Monitoring: C:\Users\USER\AppData\Local\Temp
+[2025-12-10 23:52:50] DEBUG: Real-time monitoring started - WatchDog is now active
+[2025-12-10 23:52:59] DEBUG: File created event: a66ba51f-eb52-47f3-a384-444ddff3dda5.tmp
+[2025-12-10 23:52:59] DEBUG: File modified event: a66ba51f-eb52-47f3-a384-444ddff3dda5.tmp
+[2025-12-10 23:52:59] DEBUG: File modified event: a66ba51f-eb52-47f3-a384-444ddff3dda5.tmp
+[2025-12-10 23:53:05] DEBUG: File modified event: MinGW Installer.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Internet Download Manager.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Orkida Dictionary.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Khmer Keyboard Layout.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Khmer English Dictionary.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Word.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: PowerPoint.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Excel.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Discord.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Visual Studio Code.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Adobe Media Encoder 2020.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Adobe Photoshop CC 2019.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: Adobe After Effects 2020.lnk
+[2025-12-10 23:53:05] DEBUG: File modified event: CapCut.lnk
+[2025-12-10 23:53:20] DEBUG: File created event: cancellation-bg-19.tmp
+[2025-12-10 23:53:29] DEBUG: File created event: a1c7e009-286e-42c2-af80-ec3b1a4ce2a3.tmp
+[2025-12-10 23:53:29] DEBUG: File modified event: a1c7e009-286e-42c2-af80-ec3b1a4ce2a3.tmp
+[2025-12-10 23:53:29] DEBUG: File modified event: a1c7e009-286e-42c2-af80-ec3b1a4ce2a3.tmp
+[2025-12-10 23:53:30] DEBUG: File created event: agent.exe
+[2025-12-10 23:53:30] DEBUG: File modified event: agent.exe
+[2025-12-10 23:53:31] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:53:31] DEBUG: File modified event: agent.exe
+[2025-12-10 23:53:31] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:53:31] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:53:31] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:53:32] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:53:32] DEBUG: File modified event: agent.exe
+[2025-12-10 23:53:32] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:53:32] DEBUG: File modified event: agent.exe
+[2025-12-10 23:53:32] DEBUG: File modified event: agent.exe
+[2025-12-10 23:53:33] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:53:33] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:53:33] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: QUARANTINED → 20251210_235333_agent.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:53:39] DEBUG: File created event: 41fff6ad-e6c0-4013-8bdd-db67aa208bd5.tmp
+[2025-12-10 23:53:39] DEBUG: File modified event: 41fff6ad-e6c0-4013-8bdd-db67aa208bd5.tmp
+[2025-12-10 23:53:39] DEBUG: File modified event: 41fff6ad-e6c0-4013-8bdd-db67aa208bd5.tmp
+[2025-12-10 23:53:59] DEBUG: File created event: d1075926-2e7e-4c5f-92e5-bcba3216ef08.tmp
+[2025-12-10 23:53:59] DEBUG: File modified event: d1075926-2e7e-4c5f-92e5-bcba3216ef08.tmp
+[2025-12-10 23:53:59] DEBUG: File modified event: d1075926-2e7e-4c5f-92e5-bcba3216ef08.tmp
+[2025-12-10 23:54:01] DEBUG: File modified event: 5_6183552007614241882.mp4
+[2025-12-10 23:54:08] DEBUG: File created event: __PSScriptPolicyTest_2pyermtp.11f.ps1
+[2025-12-10 23:54:08] DEBUG: File modified event: __PSScriptPolicyTest_2pyermtp.11f.ps1
+[2025-12-10 23:54:08] DEBUG: File created event: __PSScriptPolicyTest_glfqqopn.qsx.psm1
+[2025-12-10 23:54:08] DEBUG: File modified event: __PSScriptPolicyTest_glfqqopn.qsx.psm1
+[2025-12-10 23:54:11] DEBUG: File modified event: IMG_0083.PNG
+[2025-12-10 23:54:30] DEBUG: File created event: dd5b4757-37d5-4c9a-a4d1-f3a9667080e9.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: dd5b4757-37d5-4c9a-a4d1-f3a9667080e9.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: dd5b4757-37d5-4c9a-a4d1-f3a9667080e9.tmp
+[2025-12-10 23:54:30] DEBUG: File created event: cf6cebff-0aef-4919-86ce-a4476b9c56e0.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: cf6cebff-0aef-4919-86ce-a4476b9c56e0.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: cf6cebff-0aef-4919-86ce-a4476b9c56e0.tmp
+[2025-12-10 23:54:30] DEBUG: File created event: 83b33db7-a0f8-4a1d-a770-1b2137a51096.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: 83b33db7-a0f8-4a1d-a770-1b2137a51096.tmp
+[2025-12-10 23:54:30] DEBUG: File modified event: 83b33db7-a0f8-4a1d-a770-1b2137a51096.tmp
+[2025-12-10 23:54:32] DEBUG: File created event: e885d7c0-ab36-4f21-89fa-90d345eedd49.tmp
+[2025-12-10 23:54:32] DEBUG: File modified event: e885d7c0-ab36-4f21-89fa-90d345eedd49.tmp
+[2025-12-10 23:54:32] DEBUG: File modified event: e885d7c0-ab36-4f21-89fa-90d345eedd49.tmp
+[2025-12-10 23:55:00] DEBUG: File created event: 94c7de80-5bec-4264-b87c-8d4a468ab0c6.tmp
+[2025-12-10 23:55:00] DEBUG: File modified event: 94c7de80-5bec-4264-b87c-8d4a468ab0c6.tmp
+[2025-12-10 23:55:00] DEBUG: File modified event: 94c7de80-5bec-4264-b87c-8d4a468ab0c6.tmp
+[2025-12-10 23:55:30] DEBUG: File created event: 679321a5-227b-4010-bdb8-c60991744a26.tmp
+[2025-12-10 23:55:30] DEBUG: File modified event: 679321a5-227b-4010-bdb8-c60991744a26.tmp
+[2025-12-10 23:55:30] DEBUG: File modified event: 679321a5-227b-4010-bdb8-c60991744a26.tmp
+[2025-12-10 23:55:33] DEBUG: File created event: cancellation-bg-21.tmp
+[2025-12-10 23:56:00] DEBUG: File created event: fcca5ddd-cd08-4ad8-b060-96c190e1a76d.tmp
+[2025-12-10 23:56:00] DEBUG: File modified event: fcca5ddd-cd08-4ad8-b060-96c190e1a76d.tmp
+[2025-12-10 23:56:00] DEBUG: File modified event: fcca5ddd-cd08-4ad8-b060-96c190e1a76d.tmp
+[2025-12-10 23:56:03] DEBUG: File created event: __PSScriptPolicyTest_zju2hx0c.elt.ps1
+[2025-12-10 23:56:03] DEBUG: File modified event: __PSScriptPolicyTest_zju2hx0c.elt.ps1
+[2025-12-10 23:56:03] DEBUG: File created event: __PSScriptPolicyTest_l0tlpz1p.atn.psm1
+[2025-12-10 23:56:03] DEBUG: File modified event: __PSScriptPolicyTest_l0tlpz1p.atn.psm1
+[2025-12-10 23:56:30] DEBUG: File created event: 4478e955-a503-4d54-bc97-b72ed2e5be53.tmp
+[2025-12-10 23:56:30] DEBUG: File modified event: 4478e955-a503-4d54-bc97-b72ed2e5be53.tmp
+[2025-12-10 23:56:30] DEBUG: File modified event: 4478e955-a503-4d54-bc97-b72ed2e5be53.tmp
+[2025-12-10 23:56:41] DEBUG: File created event: 75abe3a6-d5ee-4431-9211-7ab32b1e89ed.tmp
+[2025-12-10 23:56:41] DEBUG: File modified event: 75abe3a6-d5ee-4431-9211-7ab32b1e89ed.tmp
+[2025-12-10 23:56:41] DEBUG: File modified event: 75abe3a6-d5ee-4431-9211-7ab32b1e89ed.tmp
