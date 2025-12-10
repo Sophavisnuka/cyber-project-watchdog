@@ -1,0 +1,34 @@
+# Quarantine folder - contains quarantined malicious files
+quarantine/
+dist/quarantine/
+
+# Log files
+watchdog.log
+dist/watchdog.log
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Build artifacts
+build/
+dist/
+*.spec
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
