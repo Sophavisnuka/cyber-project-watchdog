@@ -4031,3 +4031,310 @@ XE - agent.exe
 [2025-12-10 15:30:47] DEBUG: File modified event: 8944ae1763cfa817_0
 [2025-12-10 15:30:48] DEBUG: File modified event: 8963e342c6618805_0
 [2025-12-10 15:30:48] DEBUG: File modified event: 89b15fc0faedc8d2_0
+[2025-12-10 23:43:14] DEBUG: WatchDog Starting - User: USER
+[2025-12-10 23:43:14] DEBUG: Quarantine folder: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:14] DEBUG: Starting initial scan in background...
+[2025-12-10 23:43:14] DEBUG: Monitoring: C:\Users\USER\Downloads
+[2025-12-10 23:43:14] DEBUG: Monitoring: C:\Users\USER\Desktop
+[2025-12-10 23:43:14] DEBUG: Monitoring: C:\Users\USER\Documents
+[2025-12-10 23:43:14] DEBUG: Monitoring: C:\Users\USER\AppData\Local\Temp
+[2025-12-10 23:43:14] DEBUG: Real-time monitoring started - WatchDog is now active
+[2025-12-10 23:43:14] DEBUG: File modified event: 1 - PROJECT 2 - FLUTTER - Description (1).docx
+[2025-12-10 23:43:16] DEBUG: File modified event: 1210(1).mp4
+[2025-12-10 23:43:16] DEBUG: File modified event: audio_2025-12-07_22-08-08.ogg
+[2025-12-10 23:43:17] DEBUG: File modified event: Capstone Project Task - Sheet1.pdf
+[2025-12-10 23:43:19] DEBUG: File created event: agent.exe
+[2025-12-10 23:43:19] DEBUG: File modified event: agent.exe
+[2025-12-10 23:43:20] DEBUG: File created event: 878bcb7d-282f-4b24-9c6a-80996345b065.tmp
+[2025-12-10 23:43:20] DEBUG: File modified event: 878bcb7d-282f-4b24-9c6a-80996345b065.tmp
+[2025-12-10 23:43:20] DEBUG: File modified event: 878bcb7d-282f-4b24-9c6a-80996345b065.tmp
+[2025-12-10 23:43:20] DEBUG: File modified event: demoVideo.mp4
+[2025-12-10 23:43:20] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:43:20] DEBUG: File modified event: agent.exe
+[2025-12-10 23:43:20] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:43:20] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:20] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:21] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:43:21] DEBUG: File modified event: agent.exe
+[2025-12-10 23:43:21] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:22] DEBUG: File modified event: agent.exe
+[2025-12-10 23:43:22] DEBUG: File modified event: agent.exe
+[2025-12-10 23:43:22] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - agent.exe
+[2025-12-10 23:43:22] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:22] DETECTED → C:\Users\USER\Downloads\Telegram Desktop\agent.exe | Reason: QUARANTINED → 20251210_234322_agent.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:36] DEBUG: File created event: c147afa8-2ea8-4554-8553-433addb51412.tmp
+[2025-12-10 23:43:36] DEBUG: File modified event: c147afa8-2ea8-4554-8553-433addb51412.tmp
+[2025-12-10 23:43:36] DEBUG: File modified event: c147afa8-2ea8-4554-8553-433addb51412.tmp
+[2025-12-10 23:43:36] DEBUG: File created event: c69d6afc-b6a2-413f-875c-3c9784520ca9.tmp
+[2025-12-10 23:43:36] DEBUG: File modified event: c69d6afc-b6a2-413f-875c-3c9784520ca9.tmp
+[2025-12-10 23:43:36] DEBUG: File modified event: c69d6afc-b6a2-413f-875c-3c9784520ca9.tmp
+[2025-12-10 23:43:36] DEBUG: File created event: c1f57f00-7882-49a9-997e-1428cc13caa5.tmp
+[2025-12-10 23:43:36] DEBUG: File modified event: c1f57f00-7882-49a9-997e-1428cc13caa5.tmp
+[2025-12-10 23:43:40] DEBUG: File created event: 6a093cc5-1ad9-4605-9cd8-866798bdc844.tmp
+[2025-12-10 23:43:40] DEBUG: File modified event: 6a093cc5-1ad9-4605-9cd8-866798bdc844.tmp
+[2025-12-10 23:43:40] DEBUG: File modified event: 6a093cc5-1ad9-4605-9cd8-866798bdc844.tmp
+[2025-12-10 23:43:42] DEBUG: File created event: 6dc63320-88f1-4872-978b-bb494ff25f7d.tmp
+[2025-12-10 23:43:42] DEBUG: File modified event: 6dc63320-88f1-4872-978b-bb494ff25f7d.tmp
+[2025-12-10 23:43:44] DEBUG: File created event: ed855548-9c6d-4946-a441-592083907beb.tmp
+[2025-12-10 23:43:44] DEBUG: File modified event: ed855548-9c6d-4946-a441-592083907beb.tmp
+[2025-12-10 23:43:48] DEBUG: File created event: 905f18b1-ab58-414e-b68d-ed06e48962e5.tmp
+[2025-12-10 23:43:48] DEBUG: File modified event: 905f18b1-ab58-414e-b68d-ed06e48962e5.tmp
+[2025-12-10 23:43:50] DEBUG: File created event: xml_file (631).xml
+[2025-12-10 23:43:50] DEBUG: File created event: 9c7c6d20-e79a-45ac-9769-081289b5ff84.tmp
+[2025-12-10 23:43:50] DEBUG: File created event: xml_file (632).xml
+[2025-12-10 23:43:50] DEBUG: File modified event: xml_file (631).xml
+[2025-12-10 23:43:50] DEBUG: File modified event: xml_file (632).xml
+[2025-12-10 23:43:50] DEBUG: File modified event: xml_file (631).xml
+[2025-12-10 23:43:50] DEBUG: File modified event: xml_file (632).xml
+[2025-12-10 23:43:51] DEBUG: File moved/renamed event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:52] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:52] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:52] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File created event: jycover_1765385033.jpeg
+[2025-12-10 23:43:53] DEBUG: File created event: jycover_1765385033.jpeg
+[2025-12-10 23:43:53] DEBUG: File modified event: jycover_1765385033.jpeg
+[2025-12-10 23:43:53] DEBUG: File modified event: jycover_1765385033.jpeg
+[2025-12-10 23:43:53] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File modified event: Unconfirmed 138233.crdownload
+[2025-12-10 23:43:53] DEBUG: File created event: d13203fd-31e0-4370-8cdb-6c130576901f.tmp
+[2025-12-10 23:43:53] DEBUG: File modified event: d13203fd-31e0-4370-8cdb-6c130576901f.tmp
+[2025-12-10 23:43:53] DEBUG: File modified event: d13203fd-31e0-4370-8cdb-6c130576901f.tmp
+[2025-12-10 23:43:53] DEBUG: File modified event: d13203fd-31e0-4370-8cdb-6c130576901f.tmp
+[2025-12-10 23:43:55] DEBUG: File moved/renamed event: WindowsUpdateService.exe
+[2025-12-10 23:43:55] DEBUG: File modified event: WindowsUpdateService.exe
+[2025-12-10 23:43:56] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-10 23:43:56] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:56] DEBUG: HIGH-RISK FILE TYPE DETECTED: .EXE - WindowsUpdateService.exe
+[2025-12-10 23:43:56] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: .EXE FILE - Auto-quarantined for security (Phishing Protection) | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:43:58] DEBUG: File created event: cancellation-64.tmp
+[2025-12-10 23:43:59] DETECTED → C:\Users\USER\Downloads\WindowsUpdateService.exe | Reason: QUARANTINED → 20251210_234356_WindowsUpdateService.exe | Quarantined to: D:\CADT\Year3\Y3-Term1\Cyber-Security\Watch-Dog\dist\quarantine
+[2025-12-10 23:44:09] DEBUG: File modified event: G2-T3-Presentation.zip
+[2025-12-10 23:44:09] DEBUG: File modified event: images.png
+[2025-12-10 23:44:10] DEBUG: File modified event: IMG_9965.MP4
+[2025-12-10 23:44:10] DEBUG: File created event: 3d953c4e-7fc1-42ff-a0df-8040a4d38a6d.tmp
+[2025-12-10 23:44:10] DEBUG: File modified event: 3d953c4e-7fc1-42ff-a0df-8040a4d38a6d.tmp
+[2025-12-10 23:44:10] DEBUG: File modified event: 3d953c4e-7fc1-42ff-a0df-8040a4d38a6d.tmp
+[2025-12-10 23:44:11] DEBUG: File modified event: Internship_Report_Guideline_and_Template.zip
+[2025-12-10 23:44:11] DEBUG: File modified event: konlerz poster (1).png
+[2025-12-10 23:44:12] DEBUG: File modified event: konlerz poster (3).png
+[2025-12-10 23:44:13] DEBUG: File modified event: Konlerz.mp4
+[2025-12-10 23:44:14] DEBUG: File modified event: letter-card-with-brown-envelope.jpg
+[2025-12-10 23:44:14] DEBUG: File modified event: Recording 2025-12-07 212949.mp4
+[2025-12-10 23:44:30] DEBUG: File created event: 2a42e781-b269-41fb-8a02-d79127d68648.tmp
+[2025-12-10 23:44:30] DEBUG: File modified event: 2a42e781-b269-41fb-8a02-d79127d68648.tmp
+[2025-12-10 23:44:30] DEBUG: File modified event: 2a42e781-b269-41fb-8a02-d79127d68648.tmp
+[2025-12-10 23:44:30] DEBUG: File created event: 2054e44d-b827-47be-8f78-c8e5839dbe1c.tmp
+[2025-12-10 23:44:30] DEBUG: File modified event: 2054e44d-b827-47be-8f78-c8e5839dbe1c.tmp
+[2025-12-10 23:44:30] DEBUG: File modified event: 2054e44d-b827-47be-8f78-c8e5839dbe1c.tmp
+[2025-12-10 23:44:32] DEBUG: File created event: 035677a6-96ce-4b17-b89f-80fd1949f32c.tmp
+[2025-12-10 23:44:32] DEBUG: File modified event: 035677a6-96ce-4b17-b89f-80fd1949f32c.tmp
+[2025-12-10 23:44:32] DEBUG: File modified event: 035677a6-96ce-4b17-b89f-80fd1949f32c.tmp
+[2025-12-10 23:44:35] DEBUG: File modified event: ~$cercise2-Begin-Research-Assingment (1).docx
+[2025-12-10 23:44:36] DEBUG: File modified event: .DS_Store
+[2025-12-10 23:44:36] DEBUG: File modified event: Internship_Report_Guideline.pdf
+[2025-12-10 23:44:38] DEBUG: File modified event: SAMPLE_Internship_Report.pdf
+[2025-12-10 23:44:38] DEBUG: File modified event: 1-Verify.gov.kh.zip
+[2025-12-10 23:44:39] DEBUG: File modified event: 1.png
+[2025-12-10 23:44:40] DEBUG: File modified event: 2-Go.gov.kh.zip
+[2025-12-10 23:44:41] DEBUG: File modified event: 2.png
+[2025-12-10 23:44:41] DEBUG: File modified event: 20241231_123825.jpg
+[2025-12-10 23:44:43] DEBUG: File modified event: Adware-browser-hijacker Simulation Project - Vmware Sandbox.docx
+[2025-12-10 23:44:43] DEBUG: File modified event: AntiDeliverTechnique.pdf
+[2025-12-10 23:44:44] DEBUG: File modified event: ArmY1.jpg
+[2025-12-10 23:44:44] DEBUG: File modified event: Artboard 1.jpg
+[2025-12-10 23:44:45] DEBUG: File modified event: Blank diagram (6).png
+[2025-12-10 23:44:46] DEBUG: File modified event: cambodia-Soldier-cover.jpg
+[2025-12-10 23:44:46] DEBUG: File modified event: Capstone II Report.pdf
+[2025-12-10 23:44:47] DEBUG: File modified event: Card_Ciw_Mockup.png
+[2025-12-10 23:44:47] DEBUG: File modified event: CIW Permission Letter.pdf
+[2025-12-10 23:44:48] DEBUG: File modified event: CPU_Occupy (2).png
+[2025-12-10 23:44:48] DEBUG: File modified event: CPU_occupy.png
+[2025-12-10 23:44:49] DEBUG: File modified event: Domra-PM-final.pdf
+[2025-12-10 23:44:49] DEBUG: File modified event: Final_10_Dec_2025_Seminar_Integrating_AI_into_Research_and_Development.pdf
+[2025-12-10 23:44:50] DEBUG: File modified event: folder_permission_lockdown.png
+[2025-12-10 23:44:50] DEBUG: File created event: xml_file (633).xml
+[2025-12-10 23:44:50] DEBUG: File created event: xml_file (634).xml
+[2025-12-10 23:44:50] DEBUG: File modified event: xml_file (634).xml
+[2025-12-10 23:44:50] DEBUG: File modified event: xml_file (633).xml
+[2025-12-10 23:44:50] DEBUG: File modified event: xml_file (634).xml
+[2025-12-10 23:44:50] DEBUG: File modified event: xml_file (633).xml
+[2025-12-10 23:44:50] DEBUG: File modified event: If-not-process.jpg
+[2025-12-10 23:44:51] DEBUG: File modified event: image_2025-12-04_11-12-15.png
+[2025-12-10 23:44:52] DEBUG: File modified event: image_2025-12-04_11-12-30.png
+[2025-12-10 23:44:52] DEBUG: File modified event: image_2025-12-10_11-11-43.png
+[2025-12-10 23:44:53] DEBUG: File modified event: image_2025-12-10_11-12-14.png
+[2025-12-10 23:44:53] DEBUG: File modified event: image_2025-12-10_11-16-40.png
+[2025-12-10 23:44:54] DEBUG: File modified event: IMG_1552_-_Copy_-_Copy.jpg
+[2025-12-10 23:44:57] DEBUG: File modified event: IMG_9215.PNG
+[2025-12-10 23:44:58] DEBUG: File modified event: Internship_Report_Guideline.pdf
+[2025-12-10 23:44:58] DEBUG: File modified event: Internship_Report_Guideline_5th_Version.pdf
+[2025-12-10 23:44:59] DEBUG: File modified event: Internship_Report_Template.docx
+[2025-12-10 23:45:00] DEBUG: File modified event: Jumnoul Business Plan.pdf
+[2025-12-10 23:45:01] DEBUG: File modified event: logo.png
+[2025-12-10 23:45:03] DEBUG: File modified event: photo_2025-02-27_07-46-29-1275x850.jpg
+[2025-12-10 23:45:03] DEBUG: File modified event: photo_2025-12-08_20-29-24.jpg
+[2025-12-10 23:45:04] DEBUG: File modified event: photo_2025-12-09_14-52-56.jpg
+[2025-12-10 23:45:04] DEBUG: File modified event: Project Closure Report Template.pdf
+[2025-12-10 23:45:05] DEBUG: File modified event: Project Inception and Assessment Report.pdf
+[2025-12-10 23:45:05] DEBUG: File modified event: Project_responsiblity_division.ps5 (2).xlsx
+[2025-12-10 23:45:06] DEBUG: File modified event: Project_responsiblity_division.ps5.xlsx
+[2025-12-10 23:45:06] DEBUG: File modified event: python_damage_edit_delete.zip
+[2025-12-10 23:45:07] DEBUG: File modified event: ram_occupy (1).png
+[2025-12-10 23:45:07] DEBUG: File modified event: RAM_Occupy.png
+[2025-12-10 23:45:08] DEBUG: File modified event: Rat_Report.pdf
+[2025-12-10 23:45:09] DEBUG: File modified event: rust.rs
+[2025-12-10 23:45:09] DEBUG: File modified event: SAMPLE_Internship_Report.pdf
+[2025-12-10 23:45:09] DEBUG: File created event: __PSScriptPolicyTest_o1c3rsh2.bed.ps1
+[2025-12-10 23:45:09] DEBUG: File modified event: __PSScriptPolicyTest_o1c3rsh2.bed.ps1
+[2025-12-10 23:45:09] DEBUG: File created event: __PSScriptPolicyTest_ek2fl0fj.aua.psm1
+[2025-12-10 23:45:09] DEBUG: File modified event: __PSScriptPolicyTest_ek2fl0fj.aua.psm1
+[2025-12-10 23:45:10] DEBUG: File modified event: software-download-portal.zip
+[2025-12-10 23:45:11] DEBUG: File modified event: Spreading+AntiSpreadingFlow.pdf
+[2025-12-10 23:45:11] DEBUG: File modified event: Spreading_USB.drawio
+[2025-12-10 23:45:12] DEBUG: File modified event: test.html
+[2025-12-10 23:45:13] DEBUG: File modified event: TP2_Malcious Code.docx
+[2025-12-10 23:45:13] DEBUG: File modified event: TP3_Auto_Run_exe_Application1.pdf
+[2025-12-10 23:45:14] DEBUG: File modified event: Twibzone copy.png
+[2025-12-10 23:45:14] DEBUG: File modified event: Untitled (2).png
+[2025-12-10 23:45:15] DEBUG: File modified event: Untitled (3).png
+[2025-12-10 23:45:15] DEBUG: File modified event: Untitled (5).png
+[2025-12-10 23:45:16] DEBUG: File modified event: Untitled-1.jpg
+[2025-12-10 23:45:16] DEBUG: File modified event: USB.Baiting.png
+[2025-12-10 23:45:17] DEBUG: File modified event: USB_Spreading.png
+[2025-12-10 23:45:17] DEBUG: File modified event: what about.jpg
+[2025-12-10 23:45:18] DEBUG: File modified event: WISH ARMY.jpg
+[2025-12-10 23:45:19] DEBUG: File modified event: WORKSHOP SLIDES.pptx
+[2025-12-10 23:45:19] DEBUG: File modified event: Zoneer-ERD.drawio (3).pdf
+[2025-12-10 23:45:20] DEBUG: File modified event: Zoneer-ERD.drawio (4).pdf
+[2025-12-10 23:45:20] DEBUG: File modified event: Zoneer-ERD.drawio (4)_page-0001.jpg
+[2025-12-10 23:45:21] DEBUG: File modified event: ~$Project Presentation.pptx
+[2025-12-10 23:45:21] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត (2).docx
+[2025-12-10 23:45:22] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត (2).pdf
+[2025-12-10 23:45:22] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត.pdf
+[2025-12-10 23:45:23] DEBUG: File modified event: គោរពជូនអាណាព្យាបាលនិស្សិត2.pdf
+[2025-12-10 23:45:23] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី (2).docx
+[2025-12-10 23:45:24] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី.pdf
+[2025-12-10 23:45:25] DEBUG: File modified event: លិខិតបញ្ជាក់ការទិញសំបុត្រ_និងគោរពតាមគោលការណ៍កម្មវិធី2.pdf
+[2025-12-10 23:45:25] DEBUG: File modified event: លើកទឹកចិត្តបងប្អូនកងទ័ពជួរមុខ_copy.jpg
+[2025-12-10 23:45:26] DEBUG: File modified event: វីរកងទ័ព title 02.png
+[2025-12-10 23:45:26] DEBUG: File modified event: វីរកងទ័ពកម្ពុជា.png
+[2025-12-10 23:45:27] DEBUG: File modified event: ស្មារតីខ្មែរតែ១ by Bro. CheT.ai
+[2025-12-10 23:45:27] DEBUG: File modified event: “_ជូនពរបងៗកងទ័ព_យកជ័យជម្នះ_លើខ្មាំងឈ្លានពាន!_”.jpg
+[2025-12-10 23:45:28] DEBUG: File modified event: .DS_Store
+[2025-12-10 23:45:28] DEBUG: File modified event: 1.Verify.gov.kh-Colors-Guideline.png
+[2025-12-10 23:45:29] DEBUG: File modified event: Verify-gov.kh.pdf
+[2025-12-10 23:45:29] DEBUG: File modified event: 1.Verify.gov.kh-Light-Mode-Verical.png
+[2025-12-10 23:45:30] DEBUG: File modified event: 1a.Verify.gov.kh-Light-Mode-Horizontal.png
+[2025-12-10 23:45:31] DEBUG: File modified event: 1b.Verify.gov.kh-Light-Mode-Horizontal-Long.png
+[2025-12-10 23:45:31] DEBUG: File modified event: 1c.Verify.gov.kh-Dark-Mode-Verical.png
+[2025-12-10 23:45:32] DEBUG: File modified event: 1d.Verify.gov.kh-Dark-Mode-Horizontal.png
+[2025-12-10 23:45:32] DEBUG: File modified event: 1e.Verify.gov.kh-Dark-Mode-Horizontal-Long.png
+[2025-12-10 23:45:33] DEBUG: File modified event: .DS_Store
+[2025-12-10 23:45:33] DEBUG: File modified event: 1.Verify.gov.kh-Light-Mode-Verical.svg
+[2025-12-10 23:45:34] DEBUG: File modified event: 1a.Verify.gov.kh-Light-Mode-Horizontal.svg
+[2025-12-10 23:45:34] DEBUG: File modified event: 1b.Verify.gov.kh-Light-Mode-Horizontal-Long.svg
+[2025-12-10 23:45:35] DEBUG: File modified event: 1c.Verify.gov.kh-Dark-Mode-Verical.svg
+[2025-12-10 23:45:35] DEBUG: File created event: 150f1bb0-3cab-4515-a414-cee074dc5dfc.tmp
+[2025-12-10 23:45:35] DEBUG: File modified event: 150f1bb0-3cab-4515-a414-cee074dc5dfc.tmp
+[2025-12-10 23:45:35] DEBUG: File modified event: 150f1bb0-3cab-4515-a414-cee074dc5dfc.tmp
+[2025-12-10 23:45:35] DEBUG: File modified event: 1d.Verify.gov.kh-Dark-Mode-Horizontal.svg
+[2025-12-10 23:45:36] DEBUG: File modified event: 1e.Verify.gov.kh-Dark-Mode-Horizontal-Long.svg
+[2025-12-10 23:45:36] DEBUG: File modified event: icon.ai
+[2025-12-10 23:45:37] DEBUG: File modified event: Verify-icon.ai
+[2025-12-10 23:45:38] DEBUG: File modified event: Verify.icon.ai
+[2025-12-10 23:45:38] DEBUG: File modified event: Verify.icon.jpg
+[2025-12-10 23:45:39] DEBUG: File modified event: Verify.icon.png
+[2025-12-10 23:45:48] DEBUG: File modified event: 2ndComplement.sim
+[2025-12-10 23:45:48] DEBUG: File modified event: extraAdd16bit.sim
+[2025-12-10 23:45:49] DEBUG: File modified event: extraSub16bit.sim
+[2025-12-10 23:45:49] DEBUG: File modified event: firstComplement.sim
+[2025-12-10 23:45:50] DEBUG: File modified event: TP2.sim
+[2025-12-10 23:45:50] DEBUG: File modified event: TP3.sim
+[2025-12-10 23:45:51] DEBUG: File modified event: TP4.sim
+[2025-12-10 23:45:51] DEBUG: File modified event: TP5.sim
+[2025-12-10 23:45:52] DEBUG: File modified event: labWeeek3TP8
+[2025-12-10 23:45:53] DEBUG: File modified event: labWeeek3TP8.sim
+[2025-12-10 23:45:53] DEBUG: File modified event: LabWeek03TP03.sim
+[2025-12-10 23:45:54] DEBUG: File modified event: LabWeek3
+[2025-12-10 23:45:54] DEBUG: File modified event: LabWeek3.sim
+[2025-12-10 23:45:55] DEBUG: File modified event: LabWeek3TP02.sim
+[2025-12-10 23:45:55] DEBUG: File modified event: LabWeek3TP6.sim
+[2025-12-10 23:45:56] DEBUG: File modified event: test1.sim
+[2025-12-10 23:45:56] DEBUG: File modified event: test3.sim
+[2025-12-10 23:45:57] DEBUG: File modified event: Tp01.sim
+[2025-12-10 23:45:57] DEBUG: File modified event: Tp02.sim
+[2025-12-10 23:45:58] DEBUG: File modified event: TP03.sim
+[2025-12-10 23:45:58] DEBUG: File modified event: TP04.sim
+[2025-12-10 23:45:59] DEBUG: File modified event: Tp01.sim
+[2025-12-10 23:45:59] DEBUG: File modified event: Tp02(Me).sim
+[2025-12-10 23:46:00] DEBUG: File modified event: Tp02(New).sim
+[2025-12-10 23:46:01] DEBUG: File modified event: Password 123.txt
+[2025-12-10 23:46:01] DEBUG: File modified event: CMD.txt
+[2025-12-10 23:46:02] DEBUG: File modified event: configuration-Office2019Enterprise.xml
+[2025-12-10 23:46:02] DEBUG: File modified event: configuration-Office2021Enterprise.xml
+[2025-12-10 23:46:03] DEBUG: File modified event: configuration-Office365-x64.xml
+[2025-12-10 23:46:03] DEBUG: File modified event: configuration-Office365-x86.xml
+[2025-12-10 23:46:04] DEBUG: File created event: f4e45d75-e2cb-4491-ba0d-bafcd0565010.tmp
+[2025-12-10 23:46:04] DEBUG: File modified event: f4e45d75-e2cb-4491-ba0d-bafcd0565010.tmp
+[2025-12-10 23:46:04] DEBUG: File modified event: f4e45d75-e2cb-4491-ba0d-bafcd0565010.tmp
+[2025-12-10 23:46:04] DEBUG: File modified event: Configuration.xml
+[2025-12-10 23:46:04] DEBUG: File modified event: ApplicationInfo.xml
+[2025-12-10 23:46:05] DEBUG: File modified event: Driver.xml
+[2025-12-10 23:46:05] DEBUG: File modified event: AdobePIM.dll
+[2025-12-10 23:46:06] DEBUG: File created event: 4b8cc5eb-6583-4d68-be5f-a9de0a4d3d1b.tmp
+[2025-12-10 23:46:06] DEBUG: File modified event: 4b8cc5eb-6583-4d68-be5f-a9de0a4d3d1b.tmp
+[2025-12-10 23:46:06] DEBUG: File modified event: 4b8cc5eb-6583-4d68-be5f-a9de0a4d3d1b.tmp
+[2025-12-10 23:46:06] DEBUG: File modified event: Config.xml
+[2025-12-10 23:46:07] DEBUG: File modified event: IPC.pima
+[2025-12-10 23:46:07] DEBUG: File modified event: IPC.pimx
+[2025-12-10 23:46:08] DEBUG: File modified event: IPC.sig
+[2025-12-10 23:46:08] DEBUG: File modified event: Core.pima
+[2025-12-10 23:46:09] DEBUG: File modified event: Core.pimx
+[2025-12-10 23:46:09] DEBUG: File modified event: Core.sig
+[2025-12-10 23:46:10] DEBUG: File modified event: HDBox.pima
+[2025-12-10 23:46:10] DEBUG: File modified event: HDBox.pimx
+[2025-12-10 23:46:11] DEBUG: File modified event: HDBox.sig
+[2025-12-10 23:46:11] DEBUG: File modified event: IPCBox.pima
+[2025-12-10 23:46:12] DEBUG: File modified event: IPCBox.pimx
+[2025-12-10 23:46:13] DEBUG: File modified event: IPCBox.sig
+[2025-12-10 23:46:13] DEBUG: File modified event: LCC.pima
+[2025-12-10 23:46:14] DEBUG: File modified event: LCC.pimx
+[2025-12-10 23:46:14] DEBUG: File modified event: LCC.sig
+[2025-12-10 23:46:15] DEBUG: File modified event: Runtime.pima
+[2025-12-10 23:46:16] DEBUG: File modified event: Runtime.pimx
+[2025-12-10 23:46:16] DEBUG: File modified event: Runtime.sig
+[2025-12-10 23:46:21] DEBUG: File modified event: AdobeMediaEncoder14AllTrial.zip
+[2025-12-10 23:46:22] DEBUG: File modified event: AdobeInstalledCodecs.zip
+[2025-12-10 23:46:22] DEBUG: File modified event: appIcon.png
+[2025-12-10 23:46:23] DEBUG: File modified event: appIcon2x.png
+[2025-12-10 23:46:23] DEBUG: File modified event: v64.cab
+[2025-12-10 23:46:24] DEBUG: File modified event: v64_16.0.14332.20624.cab
+[2025-12-10 23:46:25] DEBUG: File modified event: i640.cab
+[2025-12-10 23:46:25] DEBUG: File modified event: s640.cab
+[2025-12-10 23:46:36] DEBUG: File created event: c5216fad-693a-471c-9ac0-130819c27343.tmp
+[2025-12-10 23:46:36] DEBUG: File modified event: c5216fad-693a-471c-9ac0-130819c27343.tmp
+[2025-12-10 23:46:36] DEBUG: File modified event: c5216fad-693a-471c-9ac0-130819c27343.tmp
+[2025-12-10 23:46:39] DEBUG: File modified event: stream.x64.x-none.dat
+[2025-12-10 23:46:40] DEBUG: File modified event: Downloads - Shortcut.lnk
+[2025-12-10 23:46:41] DEBUG: File modified event: PhotoshopPrefsManager-20240123-141112.log
+[2025-12-10 23:46:41] DEBUG: File modified event: library_index.json.sig
+[2025-12-10 23:46:42] DEBUG: File modified event: package_index.json.sig
+[2025-12-10 23:46:42] DEBUG: File modified event: preferences.txt
+[2025-12-10 23:46:43] DEBUG: File modified event: Adobe Media Encoder Prefs
+[2025-12-10 23:46:43] DEBUG: File modified event: AMEEncodingErrorLog.txt
+[2025-12-10 23:46:44] DEBUG: File created event: __PSScriptPolicyTest_1bih0nwm.txw.ps1
+[2025-12-10 23:46:44] DEBUG: File modified event: __PSScriptPolicyTest_1bih0nwm.txw.ps1
+[2025-12-10 23:46:44] DEBUG: File created event: __PSScriptPolicyTest_xjuggips.vwo.psm1
+[2025-12-10 23:46:44] DEBUG: File modified event: __PSScriptPolicyTest_xjuggips.vwo.psm1
+[2025-12-10 23:46:44] DEBUG: File modified event: AMEEncodingLog.txt
+[2025-12-10 23:46:44] DEBUG: File modified event: AMEPrefs.xml
+[2025-12-10 23:46:45] DEBUG: File modified event: AppPrefs.xml
+[2025-12-10 23:46:45] DEBUG: File modified event: batch.xml
+[2025-12-10 23:46:46] DEBUG: File modified event: Debug Database.txt
+[2025-12-10 23:46:47] DEBUG: File modified event: EquivalentXMPPaths.xml
+[2025-12-10 23:46:47] DEBUG: File modified event: Media Browser Provider Exception
+[2025-12-10 23:46:48] DEBUG: File modified event: Placeholder Preset.epr
+[2025-12-10 23:46:48] DEBUG: File modified event: PresetCache.xml
